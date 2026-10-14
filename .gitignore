@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset and archives
+data/
+datasets/
+*.zip
+
+# Real-ESRGAN binaries and weights
+realesrgan/
+realesrgan-ncnn-vulkan-20220424-windows/
+
+# Generated images
+output.png
+enhanced.png
