@@ -1,0 +1,2 @@
+libvulkan1
+mesa-vulkan-drivers
