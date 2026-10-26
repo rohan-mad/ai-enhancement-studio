@@ -56,11 +56,9 @@ st.markdown(
 
 # Official Linux release of Real-ESRGAN NCNN-Vulkan
 RELEASE_URL = (
-    "https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/"
-    "releases/download/v0.2.5.0/"
-    "realesrgan-ncnn-vulkan-20220424-ubuntu.zip"
+    "https://github.com/xinntao/Real-ESRGAN/releases/download/"
+    "v0.2.5.0/realesrgan-ncnn-vulkan-20220424-ubuntu.zip"
 )
-
 
 @st.cache_resource
 def prepare_realesrgan():
